@@ -1,4 +1,4 @@
-![Bioinformatics Lab Banner](bio-banner-3.jpg)
+![Bioinformatics Lab Banner](repository-open-image.png )
 
 # Dr. Juan Jovel
 
